@@ -1,7 +1,7 @@
 USE DBsales;
 
 
-select * from covid1;	
+select * from covid1
 
 alter table country_wise_latest1 rename to covid1;
 
